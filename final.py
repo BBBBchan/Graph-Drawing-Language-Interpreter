@@ -1,9 +1,9 @@
-import scannerprocess
-import semantic
+import scanner.scannerprocess as sp
+import semantic.semantic as se
 
 file_name = 'graphic.txt'
-scanner = scannerprocess.Scanner(file_name)
+scanner = sp.Scanner(file_name)
 
-semantic = semantic.Semantic(scanner)
+semantic = se.Semantic(scanner)
 semantic.init()
 semantic.Parser()
