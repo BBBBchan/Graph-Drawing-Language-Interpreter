@@ -41,3 +41,10 @@
 
 根据项目内现有的graphic.txt中的内容，绘制出的图保存在result.jpg文件中。
 
+## 更详细的说明
+[概述&词法分析](https://www.bbbbchan.com/2020/01/10/%e7%ae%80%e5%8d%95%e5%87%bd%e6%95%b0%e7%bb%98%e5%9b%be%e8%af%ad%e8%a8%80%e8%a7%a3%e9%87%8a%e5%99%a8-python%e5%ae%9e%e7%8e%b0-%e6%a6%82%e8%bf%b0%e8%af%8d%e6%b3%95%e5%88%86%e6%9e%90%e7%af%87/)
+
+[语法分析](https://www.bbbbchan.com/2020/01/10/%e7%ae%80%e5%8d%95%e5%87%bd%e6%95%b0%e7%bb%98%e5%9b%be%e8%af%ad%e8%a8%80%e8%a7%a3%e9%87%8a%e5%99%a8-python%e5%ae%9e%e7%8e%b0-%e8%af%ad%e6%b3%95%e5%88%86%e6%9e%90%e7%af%87/)
+
+[语义分析&实现](https://www.bbbbchan.com/2020/01/10/%e7%ae%80%e5%8d%95%e5%87%bd%e6%95%b0%e7%bb%98%e5%9b%be%e8%af%ad%e8%a8%80%e8%a7%a3%e9%87%8a%e5%99%a8-python%e5%ae%9e%e7%8e%b0-%e8%af%ad%e4%b9%89%e5%88%86%e6%9e%90%e5%ae%9e%e7%8e%b0%e7%af%87/)
+
