@@ -48,3 +48,6 @@
 
 [语义分析&实现](https://www.bbbbchan.com/2020/01/10/%e7%ae%80%e5%8d%95%e5%87%bd%e6%95%b0%e7%bb%98%e5%9b%be%e8%af%ad%e8%a8%80%e8%a7%a3%e9%87%8a%e5%99%a8-python%e5%ae%9e%e7%8e%b0-%e8%af%ad%e4%b9%89%e5%88%86%e6%9e%90%e5%ae%9e%e7%8e%b0%e7%af%87/)
 
+## License
+This code is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) for non-commercial use only.
+Please note that any commercial use of this code requires formal permission prior to use.
