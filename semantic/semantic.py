@@ -16,7 +16,7 @@ class Semantic(parserprocess.Parser):
         x *= self.x_scale
         y *= self.y_scale
         temp1 = x * np.cos(self.rot) + y * np.sin(self.rot)
-        y *= np.cos(self.rot) - x * np.sin(self.rot)
+        y = y * np.cos(self.rot) - x * np.sin(self.rot)
         x = temp1
         x += self.x_origin
         y += self.y_origin
