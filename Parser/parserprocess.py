@@ -155,7 +155,6 @@ class Parser(object):
         self.call_match(",")
         temp = self.Expression()
         self.y_scale = temp.GetValue()
-        self.y_origin = temp.GetValue()
         self.MatchToken(scanner_token.Token_Type.R_BRACKET)
         self.call_match(")")
         self.back("ScaleStatement")
